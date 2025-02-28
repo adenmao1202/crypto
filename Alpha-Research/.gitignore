@@ -1,0 +1,11 @@
+*.csv
+kline*
+*.pyc
+<<<<<<< HEAD
+analysis/*
+!analysis/*.py
+=======
+.DS_Store
+*.png
+*.txt
+>>>>>>> main
